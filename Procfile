@@ -1,1 +1,1 @@
-web unicorn myapp:app
+web gunicorn myapp:app
